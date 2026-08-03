@@ -23,7 +23,7 @@
         "id": "7-f2ED0CwFNy",
         "outputId": "c52176f9-9fe7-491c-f9fa-4db1a5b30ded"
       },
-      "execution_count": null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
